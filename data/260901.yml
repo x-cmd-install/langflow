@@ -1,0 +1,66 @@
+about:
+  description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+  license: MIT
+  homepage: http://www.langflow.org
+  head: 9e978f5
+  archived: false
+  latestVersion: v1.11.6
+  collectedAt: 2026-09-01T04:29:36Z
+timeline:
+  created: 2023-02-08
+  lastCommit: 2026-09-01
+  lastRelease: 2026-09-01
+popularity:
+  star: 154001
+  watcher: 542
+  fork: 9989
+  release: 306
+  contributor: 406
+  pullRequest: 3190
+  issue: 3452
+language:
+  Python: 31792363
+  TypeScript: 10453724
+  JavaScript: 4166109
+  CSS: 93250
+  Makefile: 60019
+  Shell: 47142
+  Dockerfile: 33513
+  PowerShell: 5904
+  Batchfile: 4447
+  HTML: 1091
+  Mako: 789
+totalLine: 46658351
+recent:
+  last30d:
+    since: 2026-08-02
+    release: 5
+    mergedPR: 305
+    openPR: 78
+    closedIssue: 18
+    openIssue: 35
+    commit: 462
+  last90d:
+    since: 2026-06-03
+    release: 11
+    mergedPR: 848
+    openPR: 176
+    closedIssue: 84
+    openIssue: 49
+    commit: 1332
+  last180d:
+    since: 2026-03-05
+    release: 24
+    mergedPR: 1617
+    openPR: 345
+    closedIssue: 217
+    openIssue: 79
+    commit: 2803
+  last360d:
+    since: 2025-09-06
+    release: 44
+    mergedPR: 2659
+    openPR: 544
+    closedIssue: 549
+    openIssue: 165
+    commit: 4591
