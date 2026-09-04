@@ -1,23 +1,25 @@
 about:
-  description: Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
+  description:
+  |
+    Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
   license: MIT
   homepage: http://www.langflow.org
   head: e3abffc
   archived: false
   latestVersion: v1.12.0
-  collectedAt: 2026-09-04T03:53:27Z
+  collectedAt: 2026-09-04T19:20:54Z
 timeline:
   created: 2023-02-08
   lastCommit: 2026-09-01
   lastRelease: 2026-09-01
 popularity:
-  star: 154225
+  star: 154248
   watcher: 540
-  fork: 10014
+  fork: 10021
   release: 307
   contributor: 407
-  pullRequest: 3221
-  issue: 3453
+  pullRequest: 10679
+  issue: 3454
 language:
   Python: 32227964
   TypeScript: 10786160
@@ -30,37 +32,63 @@ language:
   Batchfile: 4447
   HTML: 1091
   Mako: 789
-totalLine: 47426388
+totalBytes: 47426388
 recent:
   last30d:
     since: 2026-08-05
     release: 5
-    mergedPR: 273
-    openPR: 100
+    mergedPR: 276
+    openPR: 101
     closedIssue: 16
-    openIssue: 33
+    openIssue: 34
     commit: 550
+  last60d:
+    since: 2026-07-06
+    release: 10
+    mergedPR: 597
+    openPR: 132
+    closedIssue: 45
+    openIssue: 42
+    commit: 1040
   last90d:
     since: 2026-06-06
     release: 12
-    mergedPR: 847
-    openPR: 190
+    mergedPR: 850
+    openPR: 191
     closedIssue: 83
-    openIssue: 49
+    openIssue: 50
     commit: 1420
   last180d:
     since: 2026-03-08
     release: 23
-    mergedPR: 1627
-    openPR: 368
+    mergedPR: 1630
+    openPR: 369
     closedIssue: 212
-    openIssue: 76
+    openIssue: 77
     commit: 2891
   last360d:
     since: 2025-09-09
     release: 45
-    mergedPR: 2640
-    openPR: 564
+    mergedPR: 2643
+    openPR: 565
     closedIssue: 546
-    openIssue: 164
+    openIssue: 165
     commit: 4679
+  last720d:
+    since: 2024-09-14
+    release: 67
+    mergedPR: 5530
+    openPR: 793
+    closedIssue: 1926
+    openIssue: 233
+    commit: 5164
+total:
+  release: 307
+  mergedPR: 7462
+  openPR: 797
+  closedIssue: 3219
+  openIssue: 235
+  commit: 19010
+---
+---
+
