@@ -7,7 +7,7 @@ Langflow is a powerful tool for building and deploying AI-powered agents and wor
 - **Latest release**: `v1.12.1` (2026-09-08)
 - **Last commit**: 2026-09-08
 - **License**: MIT
-- **Stars**: 154477 · **Forks**: 10047 · **Open issues**: 3464 · **Contributors**: 408
+- **Stars**: 154513 · **Forks**: 10055 · **Open issues**: 3466 · **Contributors**: 408
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/langflow> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T06:17:42Z._
+_Last regenerated: 2026-09-09T20:46:33Z._
