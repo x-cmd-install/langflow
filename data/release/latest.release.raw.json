@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5535,
       "digest": "sha256:e6bf5e23dd74b49c5f6a8d12c80b6d25aedcf4e90e955e3c0aac11874b283071",
-      "download_count": 3,
+      "download_count": 7,
       "created_at": "2026-09-08T23:25:59Z",
       "updated_at": "2026-09-08T23:25:59Z",
       "browser_download_url": "https://github.com/langflow-ai/langflow/releases/download/v1.12.1/langflow-1.12.1-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 18490391,
       "digest": "sha256:8beb261d680f753e6caba7036e2f7efb0c44ab77e8aaba7d8d90d1fde54bd438",
-      "download_count": 4,
+      "download_count": 8,
       "created_at": "2026-09-08T23:25:59Z",
       "updated_at": "2026-09-08T23:26:00Z",
       "browser_download_url": "https://github.com/langflow-ai/langflow/releases/download/v1.12.1/langflow_base-1.12.1-py3-none-any.whl"
@@ -114,14 +114,14 @@
   "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.12.1 -->\n\n## What's Changed\n### 🐛 Bug Fixes\n* fix(frontend): render no icon for plain select trigger by @Cristhianzl in https://github.com/langflow-ai/langflow/pull/14901\n* fix: detect watsonx models behind LiteLLM proxy by @erichare in https://github.com/langflow-ai/langflow/pull/14910\n* fix(cli): clean up failed serve inputs by @Liuzikaii in https://github.com/langflow-ai/langflow/pull/14872\n* fix(components): stop lazy loading from wiping the built-in registry by @jordanrfrazier in https://github.com/langflow-ai/langflow/pull/14913\n* fix(kb): allow recreating names after locked deletion by @erichare in https://github.com/langflow-ai/langflow/pull/14930\n* fix: surface the custom-component policy behind a substituted build failure by @erichare in https://github.com/langflow-ai/langflow/pull/14931\n* fix: avoid redundant model provider refreshes by @erichare in https://github.com/langflow-ai/langflow/pull/14927\n* fix: preserve edges when updating components after a 1.12 upgrade by @Cristhianzl in https://github.com/langflow-ai/langflow/pull/14926\n* fix: detect WebKit engine, not Safari by name by @Cristhianzl in https://github.com/langflow-ai/langflow/pull/14922\n* fix: sync environment variables for existing users at startup by @erichare in https://github.com/langflow-ai/langflow/pull/14988\n* fix: duplicate custom components appearing when lazy load is on by @jordanrfrazier in https://github.com/langflow-ai/langflow/pull/14987\n* fix(mcp): let slow-starting MCP servers connect instead of timing out at 20s by @viktoravelino in https://github.com/langflow-ai/langflow/pull/14936\n* fix(memory): use the selected embedding provider instead of guessing it from the model name by @viktoravelino in https://github.com/langflow-ai/langflow/pull/14912\n* fix(logging): stop one ERROR line from OOM-killing the container with LANGFLOW_LOG_FILE set by @viktoravelino in https://github.com/langflow-ai/langflow/pull/14914\n* fix(tracing): name Langfuse traces after the flow instead of its UUID by @viktoravelino in https://github.com/langflow-ai/langflow/pull/14925\n* fix(composio): stop Gmail tool-calls from being forced to fabricate an empty attachment by @olayinkaadelakun in https://github.com/langflow-ai/langflow/pull/14991\n* fix(release): advance lfx-bundles to 1.1.23 by @erichare in https://github.com/langflow-ai/langflow/pull/14995\n\n## New Contributors\n* @Liuzikaii made their first contribution in https://github.com/langflow-ai/langflow/pull/14872\n\n**Full Changelog**: https://github.com/langflow-ai/langflow/compare/v1.12.0...v1.12.1",
   "reactions": {
     "url": "https://api.github.com/repos/langflow-ai/langflow/releases/385123557/reactions",
-    "total_count": 2,
-    "+1": 2,
+    "total_count": 5,
+    "+1": 4,
     "-1": 0,
     "laugh": 0,
     "hooray": 0,
     "confused": 0,
     "heart": 0,
-    "rocket": 0,
+    "rocket": 1,
     "eyes": 0
   },
   "mentions_count": 6

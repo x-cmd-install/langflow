@@ -1,0 +1,7 @@
+- repo: homebrew_casks
+  srcname: langflow
+  visiblename: Langflow Desktop
+  version: 1.11.0
+  origversion: null
+  status: unique
+  summary: Low-code AI-workflow building tool
