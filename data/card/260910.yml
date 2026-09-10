@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.12.1"
   latestRelease: "v1.12.1"
   latestPrerelease: "1.8.0.rc6"
-  collectedAt: 2026-09-10T21:07:22Z
+  collectedAt: 2026-09-10T22:44:32Z
 timeline:
   created: 2023-02-08
   lastCommit: 2026-09-08
@@ -15,7 +15,7 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-03-05
 popularity:
-  star: 154552
+  star: 154553
   watcher: 540
   fork: 10063
   release: 308
@@ -93,7 +93,7 @@ total:
   commit: 19030
 ---
 path: /home/runner/.x-repo/github.com/langflow-ai/langflow
-collectedAt: 2026-09-10T21:10:08Z
+collectedAt: 2026-09-10T22:46:44Z
 loc:
   Python:
     code: 648599
