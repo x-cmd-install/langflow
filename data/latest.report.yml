@@ -7,7 +7,7 @@ about:
   latestVersion: "v1.12.1"
   latestRelease: "v1.12.1"
   latestPrerelease: "1.8.0.rc6"
-  collectedAt: 2026-09-10T22:44:32Z
+  collectedAt: 2026-09-11T06:09:03Z
 timeline:
   created: 2023-02-08
   lastCommit: 2026-09-08
@@ -15,12 +15,12 @@ timeline:
   lastRelease: 2026-09-08
   lastPrerelease: 2026-03-05
 popularity:
-  star: 154553
+  star: 154561
   watcher: 540
-  fork: 10063
+  fork: 10064
   release: 308
   contributor: 408
-  pullRequest: 10750
+  pullRequest: 10752
   issue: 3467
 language:
   Python: 32388479
@@ -37,63 +37,63 @@ language:
 totalBytes: 47611043
 recent:
   last30d:
-    since: 2026-08-11
-    release: 6
-    mergedPR: 248
-    openPR: 122
+    since: 2026-08-12
+    release: 5
+    mergedPR: 237
+    openPR: 119
     closedIssue: 20
     openIssue: 35
     commit: 432
   last60d:
-    since: 2026-07-12
+    since: 2026-07-13
     release: 10
-    mergedPR: 598
-    openPR: 145
-    closedIssue: 52
+    mergedPR: 576
+    openPR: 141
+    closedIssue: 50
     openIssue: 44
     commit: 973
   last90d:
-    since: 2026-06-12
+    since: 2026-06-13
     release: 12
     mergedPR: 796
-    openPR: 200
+    openPR: 196
     closedIssue: 83
     openIssue: 51
     commit: 1378
   last180d:
-    since: 2026-03-14
+    since: 2026-03-15
     release: 23
-    mergedPR: 1615
-    openPR: 378
+    mergedPR: 1618
+    openPR: 376
     closedIssue: 210
     openIssue: 76
     commit: 2822
   last360d:
-    since: 2025-09-15
+    since: 2025-09-16
     release: 46
-    mergedPR: 2628
-    openPR: 582
-    closedIssue: 542
+    mergedPR: 2626
+    openPR: 580
+    closedIssue: 537
     openIssue: 164
     commit: 4652
   last720d:
-    since: 2024-09-20
+    since: 2024-09-21
     release: 68
-    mergedPR: 5527
-    openPR: 814
-    closedIssue: 1913
+    mergedPR: 5530
+    openPR: 812
+    closedIssue: 1911
     openIssue: 236
-    commit: 5167
+    commit: 5162
 total:
   release: 308
-  mergedPR: 7487
-  openPR: 820
+  mergedPR: 7490
+  openPR: 818
   closedIssue: 3229
   openIssue: 238
   commit: 19030
 ---
 path: /home/runner/.x-repo/github.com/langflow-ai/langflow
-collectedAt: 2026-09-10T22:46:44Z
+collectedAt: 2026-09-11T06:11:17Z
 loc:
   Python:
     code: 648599
@@ -203,4 +203,4 @@ total:
 ---
 
 ---
-{"id":385123557,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOI7jmA84W9ITl","tag_name":"v1.12.1","target_commitish":"main","name":"1.12.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T22:35:36Z","updated_at":"2026-09-08T23:26:00Z","published_at":"2026-09-08T23:25:58Z","assets":[{"id":551522012,"node_id":"RA_kwDOI7jmA84g347c","name":"langflow-1.12.1-py3-none-any.whl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":5535,"digest":"sha256:e6bf5e23dd74b49c5f6a8d12c80b6d25aedcf4e90e955e3c0aac11874b283071","download_count":7,"created_at":"2026-09-08T23:25:59Z","updated_at":"2026-09-08T23:25:59Z"},{"id":551522025,"node_id":"RA_kwDOI7jmA84g347p","name":"langflow_base-1.12.1-py3-none-any.whl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":18490391,"digest":"sha256:8beb261d680f753e6caba7036e2f7efb0c44ab77e8aaba7d8d90d1fde54bd438","download_count":8,"created_at":"2026-09-08T23:25:59Z","updated_at":"2026-09-08T23:26:00Z"}],"body":"<!-- Release notes generated using configuration in .github/release.yml at v1.12.1 -->\n\n## What's Changed\n### \ud83d\udc1b Bug Fixes\n* fix(frontend): render no icon for plain select trigger by @Cristhianzl in https://github.com/langflow-ai/langflow/pull/14901\n* fix: detect watsonx models behind LiteLLM proxy by @erichare in https://github.com/langflow-ai/langflow/pull/14910\n* fix(cli): clean up failed serve inputs by @Liuzikaii in https://github.com/langflow-ai/langflow/pull/14872\n* fix(components): stop lazy loading from wiping the built-in registry by @jordanrfrazier in https://github.com/langflow-ai/langflow/pull/14913\n* fix(kb): allow recreating names after locked deletion by @erichare in https://github.com/langflow-ai/langflow/pull/14930\n* fix: surface the custom-component policy behind a substituted build failure by @erichare in https://github.com/langflow-ai/langflow/pull/14931\n* fix: avoid redundant model provider refreshes by @erichare in https://github.com/langflow-ai/langflow/pull/14927\n* fix: preserve edges when updating components after a 1.12 upgrade by @Cristhianzl in https://github.com/langflow-ai/langflow/pull/14926\n* fix: detect WebKit engine, not Safari by name by @Cristhianzl in https://github.com/langflow-ai/langflow/pull/14922\n* fix: sync environment variables for existing users at startup by @erichare in https://github.com/langflow-ai/langflow/pull/14988\n* fix: duplicate custom components appearing when lazy load is on by @jordanrfrazier in https://github.com/langflow-ai/langflow/pull/14987\n* fix(mcp): let slow-starting MCP servers connect instead of timing out at 20s by @viktoravelino in https://github.com/langflow-ai/langflow/pull/14936\n* fix(memory): use the selected embedding provider instead of guessing it from the model name by @viktoravelino in https://github.com/langflow-ai/langflow/pull/14912\n* fix(logging): stop one ERROR line from OOM-killing the container with LANGFLOW_LOG_FILE set by @viktoravelino in https://github.com/langflow-ai/langflow/pull/14914\n* fix(tracing): name Langfuse traces after the flow instead of its UUID by @viktoravelino in https://github.com/langflow-ai/langflow/pull/14925\n* fix(composio): stop Gmail tool-calls from being forced to fabricate an empty attachment by @olayinkaadelakun in https://github.com/langflow-ai/langflow/pull/14991\n* fix(release): advance lfx-bundles to 1.1.23 by @erichare in https://github.com/langflow-ai/langflow/pull/14995\n\n## New Contributors\n* @Liuzikaii made their first contribution in https://github.com/langflow-ai/langflow/pull/14872\n\n**Full Changelog**: https://github.com/langflow-ai/langflow/compare/v1.12.0...v1.12.1","reactions":{"total_count":5,"+1":4,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":1,"eyes":0},"mentions_count":6}
+{"id":385123557,"author":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"node_id":"RE_kwDOI7jmA84W9ITl","tag_name":"v1.12.1","target_commitish":"main","name":"1.12.1","draft":false,"immutable":false,"prerelease":false,"created_at":"2026-09-08T22:35:36Z","updated_at":"2026-09-08T23:26:00Z","published_at":"2026-09-08T23:25:58Z","assets":[{"id":551522012,"node_id":"RA_kwDOI7jmA84g347c","name":"langflow-1.12.1-py3-none-any.whl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":5535,"digest":"sha256:e6bf5e23dd74b49c5f6a8d12c80b6d25aedcf4e90e955e3c0aac11874b283071","download_count":9,"created_at":"2026-09-08T23:25:59Z","updated_at":"2026-09-08T23:25:59Z"},{"id":551522025,"node_id":"RA_kwDOI7jmA84g347p","name":"langflow_base-1.12.1-py3-none-any.whl","label":"","uploader":{"login":"github-actions[bot]","id":41898282,"node_id":"MDM6Qm90NDE4OTgyODI=","gravatar_id":"","type":"Bot","user_view_type":"public","site_admin":false},"content_type":"raw","state":"uploaded","size":18490391,"digest":"sha256:8beb261d680f753e6caba7036e2f7efb0c44ab77e8aaba7d8d90d1fde54bd438","download_count":8,"created_at":"2026-09-08T23:25:59Z","updated_at":"2026-09-08T23:26:00Z"}],"body":"<!-- Release notes generated using configuration in .github/release.yml at v1.12.1 -->\n\n## What's Changed\n### \ud83d\udc1b Bug Fixes\n* fix(frontend): render no icon for plain select trigger by @Cristhianzl in https://github.com/langflow-ai/langflow/pull/14901\n* fix: detect watsonx models behind LiteLLM proxy by @erichare in https://github.com/langflow-ai/langflow/pull/14910\n* fix(cli): clean up failed serve inputs by @Liuzikaii in https://github.com/langflow-ai/langflow/pull/14872\n* fix(components): stop lazy loading from wiping the built-in registry by @jordanrfrazier in https://github.com/langflow-ai/langflow/pull/14913\n* fix(kb): allow recreating names after locked deletion by @erichare in https://github.com/langflow-ai/langflow/pull/14930\n* fix: surface the custom-component policy behind a substituted build failure by @erichare in https://github.com/langflow-ai/langflow/pull/14931\n* fix: avoid redundant model provider refreshes by @erichare in https://github.com/langflow-ai/langflow/pull/14927\n* fix: preserve edges when updating components after a 1.12 upgrade by @Cristhianzl in https://github.com/langflow-ai/langflow/pull/14926\n* fix: detect WebKit engine, not Safari by name by @Cristhianzl in https://github.com/langflow-ai/langflow/pull/14922\n* fix: sync environment variables for existing users at startup by @erichare in https://github.com/langflow-ai/langflow/pull/14988\n* fix: duplicate custom components appearing when lazy load is on by @jordanrfrazier in https://github.com/langflow-ai/langflow/pull/14987\n* fix(mcp): let slow-starting MCP servers connect instead of timing out at 20s by @viktoravelino in https://github.com/langflow-ai/langflow/pull/14936\n* fix(memory): use the selected embedding provider instead of guessing it from the model name by @viktoravelino in https://github.com/langflow-ai/langflow/pull/14912\n* fix(logging): stop one ERROR line from OOM-killing the container with LANGFLOW_LOG_FILE set by @viktoravelino in https://github.com/langflow-ai/langflow/pull/14914\n* fix(tracing): name Langfuse traces after the flow instead of its UUID by @viktoravelino in https://github.com/langflow-ai/langflow/pull/14925\n* fix(composio): stop Gmail tool-calls from being forced to fabricate an empty attachment by @olayinkaadelakun in https://github.com/langflow-ai/langflow/pull/14991\n* fix(release): advance lfx-bundles to 1.1.23 by @erichare in https://github.com/langflow-ai/langflow/pull/14995\n\n## New Contributors\n* @Liuzikaii made their first contribution in https://github.com/langflow-ai/langflow/pull/14872\n\n**Full Changelog**: https://github.com/langflow-ai/langflow/compare/v1.12.0...v1.12.1","reactions":{"total_count":7,"+1":5,"-1":0,"laugh":0,"hooray":0,"confused":0,"heart":0,"rocket":2,"eyes":0},"mentions_count":6}
