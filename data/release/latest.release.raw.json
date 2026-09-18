@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5536,
       "digest": "sha256:5c6d561bc24bb8938ed3d0de489fa897c3f379c0756bd25a707562f8dbb4cbb1",
-      "download_count": 10,
+      "download_count": 11,
       "created_at": "2026-09-16T00:53:28Z",
       "updated_at": "2026-09-16T00:53:28Z",
       "browser_download_url": "https://github.com/langflow-ai/langflow/releases/download/v1.12.2/langflow-1.12.2-py3-none-any.whl"
