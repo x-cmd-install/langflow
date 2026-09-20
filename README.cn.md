@@ -4,7 +4,7 @@
 
 Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
-![langflow](https://repo.x-cmd.io/langflow.svg?lang=zh)
+[![x-cmd/install — langflow Code Quality Monitoring Repo Card](https://repo.x-cmd.io/langflow.svg?lang=zh)](https://x-cmd.com/install/langflow)
 
 ## 安装
 
@@ -38,22 +38,22 @@ x install langflow
 
 ## 流行度
 
-- **Star**: 154,960 · **Fork**: 10,109 · **开放 issue**: 3,476 · **贡献者**: 412
+- **Star**: 155,027 · **Fork**: 10,118 · **开放 issue**: 3,479 · **贡献者**: 412
 
 ## 累计统计
 
-- **发布数**: 309 · **已合并 PR**: 7568 · **开放 PR**: 853 · **已关闭 issue**: 3243 · **开放 issue**: 233 · **提交数**: 19066
+- **发布数**: 309 · **已合并 PR**: 7579 · **开放 PR**: 874 · **已关闭 issue**: 3243 · **开放 issue**: 236 · **提交数**: 19066
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 6 | 221 | 146 | 28 | 26 | 272 |
-| last60d | 2026-07-20 | 11 | 563 | 172 | 58 | 39 | 909 |
-| 90d | 2026-06-20 | 13 | 828 | 214 | 88 | 42 | 1337 |
-| last180d | 2026-03-22 | 23 | 1650 | 404 | 217 | 68 | 2799 |
-| 360d | 2025-09-23 | 47 | 2666 | 609 | 546 | 157 | 4668 |
-| last720d | 2024-09-28 | 69 | 5555 | 846 | 1911 | 231 | 5147 |
+| 30d | 2026-08-21 | 5 | 208 | 161 | 26 | 28 | 170 |
+| last60d | 2026-07-22 | 11 | 542 | 191 | 54 | 42 | 774 |
+| 90d | 2026-06-22 | 13 | 831 | 234 | 85 | 45 | 1241 |
+| last180d | 2026-03-24 | 23 | 1647 | 424 | 211 | 71 | 2729 |
+| 360d | 2025-09-25 | 47 | 2669 | 627 | 541 | 160 | 4566 |
+| last720d | 2024-09-30 | 69 | 5557 | 866 | 1910 | 234 | 5147 |
 
 ## Release 资产
 
@@ -71,4 +71,4 @@ langflow 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T06:36:21Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T06:30:24Z._
