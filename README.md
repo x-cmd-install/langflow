@@ -4,7 +4,7 @@
 
 Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
-[![x-cmd/install — langflow Code Quality Monitoring Repo Card](https://repo.x-cmd.io/langflow.svg)](https://x-cmd.com/install/langflow)
+[![x-cmd/install — langflow Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/langflow.svg)](https://x-cmd.com/install/langflow)
 
 ## Install
 
@@ -14,14 +14,14 @@ x install langflow
 
 ## Code insight
 
-Total: **1,399,966** lines of code across **7177** files in the top 5 languages.
+Total: **1,413,497** lines of code across **7214** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 656,271 | 41,808 | 133,015 | 4077 |
-| Json | 383,107 | 0 | 17 | 383 |
-| Tsx | 156,666 | 6,704 | 17,600 | 1289 |
-| TypeScript | 128,668 | 10,989 | 20,276 | 1226 |
+| Python | 668,576 | 42,654 | 135,416 | 4104 |
+| Json | 383,177 | 0 | 17 | 384 |
+| Tsx | 157,185 | 6,721 | 17,709 | 1291 |
+| TypeScript | 129,284 | 11,036 | 20,380 | 1233 |
 | Jsx | 27,070 | 4 | 49 | 202 |
 
 ## Source
@@ -32,35 +32,35 @@ Total: **1,399,966** lines of code across **7177** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.12.2` (2026-09-16)
-- **Last commit**: 2026-09-16
+- **Latest**: `v1.12.3` (2026-09-22)
+- **Last commit**: 2026-09-22
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 155,118 · **Forks**: 10,122 · **Open issues**: 3,490 · **Contributors**: 412
+- **Stars**: 155,158 · **Forks**: 10,127 · **Open issues**: 3,492 · **Contributors**: 413
 
 ## Totals (cumulative)
 
-- **Releases**: 309 · **Merged PRs**: 7619 · **Open PRs**: 853 · **Closed issues**: 3246 · **Open issues**: 244 · **Commits**: 19066
+- **Releases**: 310 · **Merged PRs**: 7624 · **Open PRs**: 881 · **Closed issues**: 3250 · **Open issues**: 242 · **Commits**: 19122
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 247 | 139 | 26 | 36 | 170 |
-| last60d | 2026-07-24 | 9 | 558 | 169 | 55 | 47 | 774 |
-| 90d | 2026-06-24 | 12 | 845 | 205 | 84 | 52 | 1241 |
-| last180d | 2026-03-26 | 23 | 1666 | 398 | 208 | 79 | 2729 |
-| 360d | 2025-09-27 | 46 | 2697 | 604 | 539 | 166 | 4566 |
-| last720d | 2024-10-02 | 69 | 5578 | 845 | 1907 | 242 | 5121 |
+| 30d | 2026-08-24 | 6 | 239 | 165 | 28 | 32 | 240 |
+| last60d | 2026-07-25 | 10 | 560 | 197 | 57 | 45 | 844 |
+| 90d | 2026-06-25 | 13 | 836 | 231 | 87 | 50 | 1311 |
+| last180d | 2026-03-27 | 23 | 1659 | 422 | 212 | 76 | 2799 |
+| 360d | 2025-09-28 | 47 | 2701 | 632 | 543 | 164 | 4636 |
+| last720d | 2024-10-03 | 70 | 5571 | 872 | 1904 | 240 | 5165 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [langflow-1.12.2-py3-none-any.whl](https://github.com/langflow-ai/langflow/releases/download/v1.12.2/langflow-1.12.2-py3-none-any.whl) | 5.4 KiB | `other` |
-| [langflow_base-1.12.2-py3-none-any.whl](https://github.com/langflow-ai/langflow/releases/download/v1.12.2/langflow_base-1.12.2-py3-none-any.whl) | 17.6 MiB | `other` |
+| [langflow-1.12.3-py3-none-any.whl](https://github.com/langflow-ai/langflow/releases/download/v1.12.3/langflow-1.12.3-py3-none-any.whl) | 5.4 KiB | `other` |
+| [langflow_base-1.12.3-py3-none-any.whl](https://github.com/langflow-ai/langflow/releases/download/v1.12.3/langflow_base-1.12.3-py3-none-any.whl) | 17.7 MiB | `other` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for langflow lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:30:54Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:48:18Z._

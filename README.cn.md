@@ -4,7 +4,7 @@
 
 Langflow is a powerful tool for building and deploying AI-powered agents and workflows.
 
-[![x-cmd/install — langflow Code Quality Monitoring Repo Card](https://repo.x-cmd.io/langflow.svg?lang=zh)](https://x-cmd.com/install/langflow)
+[![x-cmd/install — langflow Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/langflow.svg?lang=zh)](https://x-cmd.com/install/langflow)
 
 ## 安装
 
@@ -14,14 +14,14 @@ x install langflow
 
 ## 代码洞察
 
-合计: **1,399,966** 行代码（覆盖前 5 种语言、共 **7177** 个文件）。
+合计: **1,413,497** 行代码（覆盖前 5 种语言、共 **7214** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Python | 656,271 | 41,808 | 133,015 | 4077 |
-| Json | 383,107 | 0 | 17 | 383 |
-| Tsx | 156,666 | 6,704 | 17,600 | 1289 |
-| TypeScript | 128,668 | 10,989 | 20,276 | 1226 |
+| Python | 668,576 | 42,654 | 135,416 | 4104 |
+| Json | 383,177 | 0 | 17 | 384 |
+| Tsx | 157,185 | 6,721 | 17,709 | 1291 |
+| TypeScript | 129,284 | 11,036 | 20,380 | 1233 |
 | Jsx | 27,070 | 4 | 49 | 202 |
 
 ## 源代码
@@ -32,35 +32,35 @@ x install langflow
 
 ## 发布
 
-- **最新版本**: `v1.12.2` (2026-09-16)
-- **最近提交**: 2026-09-16
+- **最新版本**: `v1.12.3` (2026-09-22)
+- **最近提交**: 2026-09-22
 - **Release 含资产**: 2 个
 
 ## 流行度
 
-- **Star**: 155,118 · **Fork**: 10,122 · **开放 issue**: 3,490 · **贡献者**: 412
+- **Star**: 155,158 · **Fork**: 10,127 · **开放 issue**: 3,492 · **贡献者**: 413
 
 ## 累计统计
 
-- **发布数**: 309 · **已合并 PR**: 7619 · **开放 PR**: 853 · **已关闭 issue**: 3246 · **开放 issue**: 244 · **提交数**: 19066
+- **发布数**: 310 · **已合并 PR**: 7624 · **开放 PR**: 881 · **已关闭 issue**: 3250 · **开放 issue**: 242 · **提交数**: 19122
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 5 | 247 | 139 | 26 | 36 | 170 |
-| last60d | 2026-07-24 | 9 | 558 | 169 | 55 | 47 | 774 |
-| 90d | 2026-06-24 | 12 | 845 | 205 | 84 | 52 | 1241 |
-| last180d | 2026-03-26 | 23 | 1666 | 398 | 208 | 79 | 2729 |
-| 360d | 2025-09-27 | 46 | 2697 | 604 | 539 | 166 | 4566 |
-| last720d | 2024-10-02 | 69 | 5578 | 845 | 1907 | 242 | 5121 |
+| 30d | 2026-08-24 | 6 | 239 | 165 | 28 | 32 | 240 |
+| last60d | 2026-07-25 | 10 | 560 | 197 | 57 | 45 | 844 |
+| 90d | 2026-06-25 | 13 | 836 | 231 | 87 | 50 | 1311 |
+| last180d | 2026-03-27 | 23 | 1659 | 422 | 212 | 76 | 2799 |
+| 360d | 2025-09-28 | 47 | 2701 | 632 | 543 | 164 | 4636 |
+| last720d | 2024-10-03 | 70 | 5571 | 872 | 1904 | 240 | 5165 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [langflow-1.12.2-py3-none-any.whl](https://github.com/langflow-ai/langflow/releases/download/v1.12.2/langflow-1.12.2-py3-none-any.whl) | 5.4 KiB | `other` |
-| [langflow_base-1.12.2-py3-none-any.whl](https://github.com/langflow-ai/langflow/releases/download/v1.12.2/langflow_base-1.12.2-py3-none-any.whl) | 17.6 MiB | `other` |
+| [langflow-1.12.3-py3-none-any.whl](https://github.com/langflow-ai/langflow/releases/download/v1.12.3/langflow-1.12.3-py3-none-any.whl) | 5.4 KiB | `other` |
+| [langflow_base-1.12.3-py3-none-any.whl](https://github.com/langflow-ai/langflow/releases/download/v1.12.3/langflow_base-1.12.3-py3-none-any.whl) | 17.7 MiB | `other` |
 
 ## 改进这些数据
 
@@ -71,4 +71,4 @@ langflow 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260922.yml` · 2026-09-22T06:30:55Z._
+_数据快照: `data/card/260923.yml` · 2026-09-23T06:48:20Z._
