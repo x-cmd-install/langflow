@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 5542,
       "digest": "sha256:2a628e7f6dde5358b412d842a0f1b935b9fce99d68db83863818b84869415c61",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-22T21:22:33Z",
       "updated_at": "2026-09-22T21:22:34Z",
       "browser_download_url": "https://github.com/langflow-ai/langflow/releases/download/v1.12.3/langflow-1.12.3-py3-none-any.whl"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 18532091,
       "digest": "sha256:ddc5a6a431ee86ed561a21c6aa0a59076ffcb696dfd53b25067b6abf2623644f",
-      "download_count": 4,
+      "download_count": 6,
       "created_at": "2026-09-22T21:22:34Z",
       "updated_at": "2026-09-22T21:22:35Z",
       "browser_download_url": "https://github.com/langflow-ai/langflow/releases/download/v1.12.3/langflow_base-1.12.3-py3-none-any.whl"
