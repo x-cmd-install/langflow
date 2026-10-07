@@ -14,14 +14,14 @@ x install langflow
 
 ## Code insight
 
-Total: **1,421,343** lines of code across **7243** files in the top 5 languages.
+Total: **1,426,432** lines of code across **7260** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 677,003 | 42,867 | 136,843 | 4129 |
-| Json | 381,820 | 0 | 17 | 384 |
-| Tsx | 157,363 | 6,730 | 17,730 | 1291 |
-| TypeScript | 129,894 | 11,059 | 20,459 | 1237 |
+| Python | 680,878 | 42,932 | 137,667 | 4143 |
+| Json | 382,432 | 0 | 17 | 384 |
+| Tsx | 157,868 | 6,743 | 17,794 | 1293 |
+| TypeScript | 129,981 | 11,077 | 20,472 | 1238 |
 | Jsx | 27,070 | 4 | 49 | 202 |
 
 ## Source
@@ -32,35 +32,35 @@ Total: **1,421,343** lines of code across **7243** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v1.12.4` (2026-09-29)
-- **Last commit**: 2026-10-01
+- **Latest**: `v1.12.5` (2026-10-06)
+- **Last commit**: 2026-10-06
 - **Assets in release**: 2
 
 ## Popularity
 
-- **Stars**: 155,531 · **Forks**: 10,186 · **Open issues**: 3,528 · **Contributors**: 415
+- **Stars**: 155,554 · **Forks**: 10,189 · **Open issues**: 3,531 · **Contributors**: 420
 
 ## Totals (cumulative)
 
-- **Releases**: 311 · **Merged PRs**: 7729 · **Open PRs**: 950 · **Closed issues**: 3271 · **Open issues**: 257 · **Commits**: 19165
+- **Releases**: 312 · **Merged PRs**: 7748 · **Open PRs**: 947 · **Closed issues**: 3333 · **Open issues**: 198 · **Commits**: 19190
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-06 | 4 | 230 | 203 | 28 | 43 | 181 |
-| last60d | 2026-08-07 | 9 | 526 | 263 | 62 | 58 | 674 |
-| 90d | 2026-07-08 | 13 | 857 | 293 | 93 | 66 | 1224 |
-| last180d | 2026-04-09 | 23 | 1643 | 454 | 207 | 91 | 2556 |
-| 360d | 2025-10-11 | 44 | 2697 | 684 | 513 | 175 | 4481 |
-| last720d | 2024-10-16 | 70 | 5584 | 940 | 1880 | 255 | 5112 |
+| 30d | 2026-09-07 | 5 | 248 | 205 | 35 | 37 | 223 |
+| last60d | 2026-08-08 | 10 | 545 | 266 | 76 | 46 | 716 |
+| 90d | 2026-07-09 | 14 | 866 | 297 | 110 | 52 | 1266 |
+| last180d | 2026-04-10 | 24 | 1649 | 453 | 232 | 68 | 2598 |
+| 360d | 2025-10-12 | 45 | 2715 | 681 | 551 | 139 | 4523 |
+| last720d | 2024-10-17 | 71 | 5594 | 937 | 1936 | 196 | 5129 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [langflow-1.12.4-py3-none-any.whl](https://github.com/langflow-ai/langflow/releases/download/v1.12.4/langflow-1.12.4-py3-none-any.whl) | 5.4 KiB | `other` |
-| [langflow_base-1.12.4-py3-none-any.whl](https://github.com/langflow-ai/langflow/releases/download/v1.12.4/langflow_base-1.12.4-py3-none-any.whl) | 17.7 MiB | `other` |
+| [langflow-1.12.5-py3-none-any.whl](https://github.com/langflow-ai/langflow/releases/download/v1.12.5/langflow-1.12.5-py3-none-any.whl) | 5.4 KiB | `other` |
+| [langflow_base-1.12.5-py3-none-any.whl](https://github.com/langflow-ai/langflow/releases/download/v1.12.5/langflow_base-1.12.5-py3-none-any.whl) | 17.7 MiB | `other` |
 
 ## Improve this data
 
@@ -71,4 +71,4 @@ Install metadata for langflow lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261006.yml` · 2026-10-06T07:45:14Z._
+_Snapshot: `data/card/261007.yml` · 2026-10-07T07:21:59Z._
