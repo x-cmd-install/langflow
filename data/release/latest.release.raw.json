@@ -1,9 +1,9 @@
 {
-  "url": "https://api.github.com/repos/langflow-ai/langflow/releases/411886256",
-  "assets_url": "https://api.github.com/repos/langflow-ai/langflow/releases/411886256/assets",
-  "upload_url": "https://uploads.github.com/repos/langflow-ai/langflow/releases/411886256/assets{?name,label}",
-  "html_url": "https://github.com/langflow-ai/langflow/releases/tag/v1.12.6",
-  "id": 411886256,
+  "url": "https://api.github.com/repos/langflow-ai/langflow/releases/419041628",
+  "assets_url": "https://api.github.com/repos/langflow-ai/langflow/releases/419041628/assets",
+  "upload_url": "https://uploads.github.com/repos/langflow-ai/langflow/releases/419041628/assets{?name,label}",
+  "html_url": "https://github.com/langflow-ai/langflow/releases/tag/v1.12.7",
+  "id": 419041628,
   "author": {
     "login": "github-actions[bot]",
     "id": 41898282,
@@ -25,22 +25,22 @@
     "user_view_type": "public",
     "site_admin": false
   },
-  "node_id": "RE_kwDOI7jmA84YjOKw",
-  "tag_name": "v1.12.6",
+  "node_id": "RE_kwDOI7jmA84Y-hFc",
+  "tag_name": "v1.12.7",
   "target_commitish": "main",
-  "name": "1.12.6",
+  "name": "1.12.7",
   "draft": false,
   "immutable": false,
   "prerelease": false,
-  "created_at": "2026-10-13T14:21:31Z",
-  "updated_at": "2026-10-13T16:29:16Z",
-  "published_at": "2026-10-13T16:29:12Z",
+  "created_at": "2026-10-20T21:43:29Z",
+  "updated_at": "2026-10-21T01:17:41Z",
+  "published_at": "2026-10-21T01:17:38Z",
   "assets": [
     {
-      "url": "https://api.github.com/repos/langflow-ai/langflow/releases/assets/637599086",
-      "id": 637599086,
-      "node_id": "RA_kwDOI7jmA84mAP1u",
-      "name": "langflow-1.12.6-py3-none-any.whl",
+      "url": "https://api.github.com/repos/langflow-ai/langflow/releases/assets/660987629",
+      "id": 660987629,
+      "node_id": "RA_kwDOI7jmA84nZd7t",
+      "name": "langflow-1.12.7-py3-none-any.whl",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -65,18 +65,18 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 5557,
-      "digest": "sha256:37ae2d1ce05687c64d6f345320b3547f774e90fb57b05b683a8f620f9759870e",
-      "download_count": 24,
-      "created_at": "2026-10-13T16:29:13Z",
-      "updated_at": "2026-10-13T16:29:14Z",
-      "browser_download_url": "https://github.com/langflow-ai/langflow/releases/download/v1.12.6/langflow-1.12.6-py3-none-any.whl"
+      "size": 5550,
+      "digest": "sha256:75850b81bbb9db7de4c1754f0256bbdf8477229955373a31424785bd7293a713",
+      "download_count": 2,
+      "created_at": "2026-10-21T01:17:39Z",
+      "updated_at": "2026-10-21T01:17:39Z",
+      "browser_download_url": "https://github.com/langflow-ai/langflow/releases/download/v1.12.7/langflow-1.12.7-py3-none-any.whl"
     },
     {
-      "url": "https://api.github.com/repos/langflow-ai/langflow/releases/assets/637599125",
-      "id": 637599125,
-      "node_id": "RA_kwDOI7jmA84mAP2V",
-      "name": "langflow_base-1.12.6-py3-none-any.whl",
+      "url": "https://api.github.com/repos/langflow-ai/langflow/releases/assets/660987652",
+      "id": 660987652,
+      "node_id": "RA_kwDOI7jmA84nZd8E",
+      "name": "langflow_base-1.12.7-py3-none-any.whl",
       "label": "",
       "uploader": {
         "login": "github-actions[bot]",
@@ -101,16 +101,16 @@
       },
       "content_type": "raw",
       "state": "uploaded",
-      "size": 18570663,
-      "digest": "sha256:716ca9ac5d6a85e3e2c3c4eab5100aee719cef47ec4c5dac39e8704e308d0144",
-      "download_count": 28,
-      "created_at": "2026-10-13T16:29:14Z",
-      "updated_at": "2026-10-13T16:29:15Z",
-      "browser_download_url": "https://github.com/langflow-ai/langflow/releases/download/v1.12.6/langflow_base-1.12.6-py3-none-any.whl"
+      "size": 18577009,
+      "digest": "sha256:7cecd028a65beea45c6eba73a3fd20c42545077cee493775b757324bc6b54c70",
+      "download_count": 2,
+      "created_at": "2026-10-21T01:17:40Z",
+      "updated_at": "2026-10-21T01:17:41Z",
+      "browser_download_url": "https://github.com/langflow-ai/langflow/releases/download/v1.12.7/langflow_base-1.12.7-py3-none-any.whl"
     }
   ],
-  "tarball_url": "https://api.github.com/repos/langflow-ai/langflow/tarball/v1.12.6",
-  "zipball_url": "https://api.github.com/repos/langflow-ai/langflow/zipball/v1.12.6",
-  "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.12.6 -->\n\n## What's Changed\n### 🐛 Bug Fixes\n* fix: reject reusing bundle releases published for another lfx line by @erichare in https://github.com/langflow-ai/langflow/pull/15657\n* fix(deps): dependency upgrades to 1.12.6 by @Adam-Aghili in https://github.com/langflow-ai/langflow/pull/15654\n* fix: 1.13.0 security backports to 1.12.6 by @Adam-Aghili in https://github.com/langflow-ai/langflow/pull/15655\n* fix(mcp): derive flow input schemas without running stored component code by @erichare in https://github.com/langflow-ai/langflow/pull/15660\n* fix: accept dictionary input in Type Convert JSON and Message outputs (LE-3003) by @erichare in https://github.com/langflow-ai/langflow/pull/15680\n* fix(lfx): handle numeric columns in Replace Value operation by @tarciorodrigues in https://github.com/langflow-ai/langflow/pull/15719\n### ✅ Tests\n* test: make WebhookTest.json fixture hermetic by @erichare in https://github.com/langflow-ai/langflow/pull/15724\n\n\n**Full Changelog**: https://github.com/langflow-ai/langflow/compare/v1.12.5...v1.12.6",
-  "mentions_count": 3
+  "tarball_url": "https://api.github.com/repos/langflow-ai/langflow/tarball/v1.12.7",
+  "zipball_url": "https://api.github.com/repos/langflow-ai/langflow/zipball/v1.12.7",
+  "body": "<!-- Release notes generated using configuration in .github/release.yml at v1.12.7 -->\n\n## What's Changed\n### 🐛 Bug Fixes\n* fix(security): validate OpenSearch connector URLs by @erichare in https://github.com/langflow-ai/langflow/pull/15756\n* fix(security): scope original-file S3 uploads by @erichare in https://github.com/langflow-ai/langflow/pull/15757\n* fix(deps): dependency upgrades for 1.12.7 by @Adam-Aghili in https://github.com/langflow-ai/langflow/pull/15762\n* fix(security): reject process and code loader capabilities by @erichare in https://github.com/langflow-ai/langflow/pull/15758\n* fix(api): reconstruct workflow status without component instantiation by @erichare in https://github.com/langflow-ai/langflow/pull/15781\n* fix(kb): honor environment fallback and redact connection errors by @erichare in https://github.com/langflow-ai/langflow/pull/15783\n* fix(security): preserve jq conditional expressions during validation by @erichare in https://github.com/langflow-ai/langflow/pull/15782\n* fix(security): block runtime object recovery in generated components by @erichare in https://github.com/langflow-ai/langflow/pull/15873\n* fix(security): enforce admin policy on public component builds by @erichare in https://github.com/langflow-ai/langflow/pull/15874\n* fix(security): reject runtime loader and environment capabilities by @erichare in https://github.com/langflow-ai/langflow/pull/15879\n* fix: backport runtime URL prefixes and cookie isolation to 1.12.7 by @erichare in https://github.com/langflow-ai/langflow/pull/15880\n* fix(security): enforce model policy in standalone builders by @erichare in https://github.com/langflow-ai/langflow/pull/15877\n* fix(security): restrict non-owner graph overrides and local cleanup by @erichare in https://github.com/langflow-ai/langflow/pull/15878\n* fix(security): separate saved flows from public history identifiers by @erichare in https://github.com/langflow-ai/langflow/pull/15876\n* fix(deps): keep core package versions aligned on 1.12.7 by @erichare in https://github.com/langflow-ai/langflow/pull/15900\n### ✅ Tests\n* test(files): verify unsafe renames preserve safe downloads by @erichare in https://github.com/langflow-ai/langflow/pull/15759\n\n\n**Full Changelog**: https://github.com/langflow-ai/langflow/compare/v1.12.6...v1.12.7",
+  "mentions_count": 2
 }
