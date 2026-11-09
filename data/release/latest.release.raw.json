@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 19623191,
       "digest": "sha256:c9dd778c1c001c4ae3f9aa4a90d5f3457fd6404362e5ea1c17fefa8b24a4a0e2",
-      "download_count": 12,
+      "download_count": 15,
       "created_at": "2026-11-04T03:14:17Z",
       "updated_at": "2026-11-04T03:14:19Z",
       "browser_download_url": "https://github.com/langflow-ai/langflow/releases/download/v1.13.1/langflow_base-1.13.1-py3-none-any.whl"
