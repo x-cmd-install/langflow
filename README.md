@@ -38,22 +38,22 @@ Total: **1,652,055** lines of code across **8459** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 156,964 · **Forks**: 10,448 · **Open issues**: 3,634 · **Contributors**: 436
+- **Stars**: 156,987 · **Forks**: 10,460 · **Open issues**: 3,635 · **Contributors**: 436
 
 ## Totals (cumulative)
 
-- **Releases**: 322 · **Merged PRs**: 8263 · **Open PRs**: 1136 · **Closed issues**: 3419 · **Open issues**: 215 · **Commits**: 19708
+- **Releases**: 322 · **Merged PRs**: 8265 · **Open PRs**: 1163 · **Closed issues**: 3423 · **Open issues**: 212 · **Commits**: 19708
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-27 | 6 | 277 | 176 | 25 | 40 | 155 |
-| last60d | 2026-09-27 | 12 | 567 | 334 | 66 | 58 | 630 |
-| 90d | 2026-08-28 | 17 | 818 | 448 | 128 | 64 | 1041 |
-| last180d | 2026-05-30 | 28 | 1706 | 580 | 246 | 81 | 2505 |
-| 360d | 2025-12-01 | 50 | 2979 | 832 | 516 | 138 | 4730 |
-| last720d | 2024-12-06 | 77 | 5494 | 1117 | 1823 | 213 | 5098 |
+| 30d | 2026-10-28 | 6 | 268 | 200 | 29 | 37 | 155 |
+| last60d | 2026-09-28 | 12 | 551 | 362 | 70 | 55 | 630 |
+| 90d | 2026-08-29 | 17 | 820 | 475 | 131 | 61 | 1041 |
+| last180d | 2026-05-31 | 28 | 1707 | 606 | 248 | 78 | 2505 |
+| 360d | 2025-12-02 | 50 | 2972 | 856 | 520 | 135 | 4730 |
+| last720d | 2024-12-07 | 77 | 5491 | 1144 | 1824 | 210 | 5078 |
 
 ## Release assets
 
@@ -71,4 +71,4 @@ Install metadata for langflow lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261126.yml` · 2026-11-26T10:22:27Z._
+_Snapshot: `data/card/261127.yml` · 2026-11-27T10:01:13Z._
