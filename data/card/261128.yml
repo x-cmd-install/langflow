@@ -1,0 +1,205 @@
+about:
+  description: "Langflow is a powerful tool for building and deploying AI-powered agents and workflows."
+  license: MIT
+  homepage: http://www.langflow.org
+  head: 2b6faa1
+  archived: false
+  latestVersion: "v1.13.4"
+  latestRelease: "v1.13.4"
+  latestPrerelease: "1.8.0.rc6"
+  collectedAt: 2026-11-28T08:51:03Z
+timeline:
+  created: 2023-02-08
+  lastCommit: 2026-11-27
+  lastVersion: 2026-11-24
+  lastRelease: 2026-11-24
+  lastPrerelease: 2026-03-05
+popularity:
+  star: 156994
+  watcher: 527
+  fork: 10463
+  release: 322
+  contributor: 435
+  pullRequest: 12166
+  issue: 3638
+language:
+  Python: 42257959
+  TypeScript: 12302071
+  JavaScript: 4194024
+  CSS: 93759
+  Makefile: 59908
+  Shell: 51785
+  Dockerfile: 36900
+  PowerShell: 5904
+  Batchfile: 4447
+  HTML: 1091
+  Mako: 789
+totalBytes: 59008637
+recent:
+  last30d:
+    since: 2026-10-29
+    release: 6
+    mergedPR: 272
+    openPR: 201
+    closedIssue: 30
+    openIssue: 38
+    commit: 156
+  last60d:
+    since: 2026-09-29
+    release: 12
+    mergedPR: 555
+    openPR: 365
+    closedIssue: 72
+    openIssue: 55
+    commit: 631
+  last90d:
+    since: 2026-08-30
+    release: 17
+    mergedPR: 831
+    openPR: 478
+    closedIssue: 133
+    openIssue: 61
+    commit: 1042
+  last180d:
+    since: 2026-06-01
+    release: 28
+    mergedPR: 1705
+    openPR: 611
+    closedIssue: 248
+    openIssue: 78
+    commit: 2506
+  last360d:
+    since: 2025-12-03
+    release: 50
+    mergedPR: 2967
+    openPR: 862
+    closedIssue: 523
+    openIssue: 135
+    commit: 4731
+  last720d:
+    since: 2024-12-08
+    release: 77
+    mergedPR: 5500
+    openPR: 1150
+    closedIssue: 1826
+    openIssue: 210
+    commit: 5064
+total:
+  release: 322
+  mergedPR: 8276
+  openPR: 1169
+  closedIssue: 3426
+  openIssue: 212
+  commit: 19709
+---
+path: /home/runner/.x-repo/github.com/langflow-ai/langflow
+collectedAt: 2026-11-28T08:53:13Z
+loc:
+  Python:
+    code: 836589
+    comments: 48085
+    blanks: 167176
+    files: 5012
+  Json:
+    code: 414701
+    comments: 0
+    blanks: 20
+    files: 506
+  Tsx:
+    code: 178177
+    comments: 7637
+    blanks: 19434
+    files: 1380
+  TypeScript:
+    code: 142762
+    comments: 12643
+    blanks: 22126
+    files: 1354
+  Jsx:
+    code: 27175
+    comments: 4
+    blanks: 50
+    files: 207
+  JavaScript:
+    code: 18144
+    comments: 367
+    blanks: 1659
+    files: 542
+  Svg:
+    code: 15701
+    comments: 68
+    blanks: 90
+    files: 297
+  Sh:
+    code: 8608
+    comments: 406
+    blanks: 899
+    files: 541
+  Css:
+    code: 4518
+    comments: 310
+    blanks: 769
+    files: 23
+  Toml:
+    code: 2558
+    comments: 640
+    blanks: 276
+    files: 35
+  Yaml:
+    code: 1115
+    comments: 373
+    blanks: 118
+    files: 24
+  Makefile:
+    code: 1086
+    comments: 69
+    blanks: 197
+    files: 3
+  Dockerfile:
+    code: 551
+    comments: 191
+    blanks: 136
+    files: 14
+  Batch:
+    code: 145
+    comments: 12
+    blanks: 23
+    files: 2
+  PowerShell:
+    code: 137
+    comments: 20
+    blanks: 25
+    files: 2
+  Ini:
+    code: 32
+    comments: 58
+    blanks: 23
+    files: 1
+  Bitbake:
+    code: 30
+    comments: 0
+    blanks: 3
+    files: 1
+  Html:
+    code: 26
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 17059
+    blanks: 5626
+    files: 128
+  Text:
+    code: 0
+    comments: 499
+    blanks: 84
+    files: 81
+total:
+  code: 1653360
+  comments: 88620
+  blanks: 218869
+  files: 10154
+---
+
+---
